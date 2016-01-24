@@ -5,7 +5,7 @@ description : this program use ccp1 module and timer1 to control servo motors wi
 developed by : mohamed yehia (thedesertm@gmail.com)
 
 */
-#define FOSCMHZ 2    //fosc/4
+#define FOSCMHZ 4    //fosc/4
 #include "servo.h"
 void main(void)
 {
